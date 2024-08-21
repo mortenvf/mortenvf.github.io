@@ -1,0 +1,18 @@
+brews:
+  - name: Oatmeal Stout
+    batch: 13
+    style: Stout
+    abv:
+    og:
+    fg:
+    ebc:
+    ibu:
+  - name: Raw Juice NEIPA
+    batch: 12
+    style: Stout
+    brew-date: 2024-06-09
+    abv: 6.43
+    og: 1057
+    fg: 1008
+    ebc: 8.4
+    ibu: 12.8
