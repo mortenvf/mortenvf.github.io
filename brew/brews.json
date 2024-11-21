@@ -1,0 +1,144 @@
+{
+    "brews": [
+        {
+            "batch": 6,
+            "brew-date": "2021-12-29",
+            "name": "Fullers London Pride Clone",
+            "comments": null,
+            "bottling_volume": 22,
+            "style": "Extra Special Bitter",
+            "abv": 4,
+            "og": 1043,
+            "fg": null,
+            "ebc": 14.5,
+            "ibu": 29.8,
+            "hops": [
+                "Challenger",
+                "Target"
+            ]
+        },
+        {
+            "batch": 7,
+            "brew-date": "2022-04-30",
+            "name": "Juicy Jane's New England IPA ",
+            "comments": null,
+            "bottling_volume": 23,
+            "style": "New England IPA",
+            "abv": 4.8,
+            "og": 1050,
+            "fg": 1010,
+            "ebc": null,
+            "ibu": null
+        },
+        {
+            "batch": 8,
+            "brew-date": "2022-08-21",
+            "name": "Fullers London Pride Clone",
+            "comments": null,
+            "bottling_volume": 23,
+            "style": "Extra Special Bitter",
+            "abv": 3.4,
+            "og": 1038,
+            "fg": 1012,
+            "ebc": 14.5,
+            "ibu": 29.8,
+            "hops": [
+                "Challenger",
+                "Target"
+            ]
+        },
+        {
+            "batch": 9,
+            "brew-date": "2023-05-24",
+            "name": "Juicy IPA #1",
+            "comments": null,
+            "bottling_volume": null,
+            "style": "New England IPA",
+            "abv": 4.8,
+            "og": null,
+            "fg": null,
+            "ebc": 12.3,
+            "ibu": 57.2
+        },
+        {
+            "batch": 10,
+            "brew-date": "2023-07-06",
+            "name": "Dortmunder Export",
+            "comments": null,
+            "bottling_volume": 20.5,
+            "style": "Dortmunder Export",
+            "abv": null,
+            "og": 1050,
+            "fg": null,
+            "ebc": 7.6,
+            "ibu": 26.9,
+            "hops": [
+                "Hersbrucker",
+                "Tettnang"
+            ]
+        },
+        {
+            "batch": 11,
+            "brew-date": "2024-03-16",
+            "name": "Fullers London Pride Clone",
+            "comments": null,
+            "bottling_volume": 20.5,
+            "style": "Extra Special Bitter",
+            "abv": 3.9,
+            "og": 1044,
+            "fg": 1014,
+            "ebc": 14.5,
+            "ibu": 29.8,
+            "hops": [
+                "Challenger",
+                "Target"
+            ]
+        },
+        {
+            "batch": 12,
+            "brew-date": "2024-08-24",
+            "name": "Raw Juice NEIPA",
+            "comments": "aka Wort Geyser",
+            "style": "NEIPA",
+            "bottling_volume": 20.5,
+            "abv": 6.4,
+            "og": 1057,
+            "fg": 1008,
+            "ebc": 8.4,
+            "ibu": 12.8,
+            "hops": null
+        },
+        {
+            "batch": 13,
+            "brew-date": "2024-08-24",
+            "name": "Oatmeal Stout #1",
+            "style": "Oatmeal Stout",
+            "bottling_volume": 23,
+            "abv": 5.0,
+            "og": 1052,
+            "fg": 1014,
+            "ebc": 54.4,
+            "ibu": 31.3,
+            "hops": [
+                "Challenger",
+                "East Kent Golding"
+            ]
+        },
+        {
+            "batch_number": 14,
+            "brew-date": "2024-11-16",
+            "name": "Belgisk Dubbel",
+            "style": "Stout",
+            "bottling_volume": 22.2,
+            "abv": 6.81,
+            "og": 1058,
+            "fg": null,
+            "ebc": 24.9,
+            "ibu": 19.2,
+            "hops": [
+                "Hallertauer Hersbrücker",
+                "Tettnang"
+            ]
+        }
+    ]
+}
