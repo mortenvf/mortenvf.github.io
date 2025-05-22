@@ -20,7 +20,7 @@
         {
             "batch": 7,
             "brew-date": "2022-04-30",
-            "name": "Juicy Jane's New England IPA ",
+            "name": "Juicy Jane's New England IPA",
             "comments": null,
             "bottling_volume": 23,
             "style": "New England IPA",
@@ -111,7 +111,7 @@
         {
             "batch": 13,
             "brew-date": "2024-08-24",
-            "name": "Oatmeal Stout #1",
+            "name": "Oatmeal Stout №1",
             "style": "Oatmeal Stout",
             "bottling_volume": 23,
             "abv": 5.0,
