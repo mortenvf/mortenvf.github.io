@@ -139,6 +139,22 @@
                 "Hallertauer Hersbrücker",
                 "Tettnang"
             ]
+        },
+        {
+            "batch": 15,
+            "brewDate": "2026-10-14",
+            "name": "Galena Grenade",
+            "style": "Imperial Stout",
+            "bottlingVolume": null,
+            "abv": null,
+            "og": null,
+            "fg": null,
+            "ebc": null,
+            "ibu": null,
+            "hops": [
+                "Galena",
+                "Willamette"
+            ]
         }
     ]
 }
